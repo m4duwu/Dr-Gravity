@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{6ab735b0-7ba2-45d6-a5d0-84948c4c831d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="src\transition.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\menu.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\main.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\credits.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\controls.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game2.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\transition1.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game3.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\transition2.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\game1.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\selection.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\logo.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="src\transition3.c">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\transition.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\menu.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\credits.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\controls.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game2.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\transition1.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game3.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\transition2.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\game1.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\logo.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\transition3.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="src\selection.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
